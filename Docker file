@@ -1,0 +1,4 @@
+From ubuntu
+maintainer salauddin
+Add /usr/docker/var/lib/volume
+Run yum install httppd -y
